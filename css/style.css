@@ -1,0 +1,33 @@
+
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.list {
+    display: table;
+    margin: 0 auto;
+}
+
+.pizza,
+.penne,
+.smash {
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.pizza {
+    background-color: red;
+}
+
+.penne {
+    background-color: orange;
+}
+
+.smash {
+    background-color: brown;
+}
